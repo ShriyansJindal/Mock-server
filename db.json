@@ -18,8 +18,7 @@
         "https://cdn.dummyjson.com/product-images/1/4.jpg",
         "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg"
       ]
-    },git remote add origin https://github.com/ShriyansJindal/Furniro.git
-    
+    },
     {
       "id": 2,
       "title": "iPhone X",
